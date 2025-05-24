@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+  text-align: center;
+}
+.hero {
+  background-color: #1a1a1a;
+  color: white;
+  padding: 60px 20px;
+}
+.hero h1 {
+  font-size: 2em;
+}
+.cta {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 24px;
+  background-color: #0070f3;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+section {
+  padding: 40px 20px;
+}
+.features ul {
+  list-style: none;
+  padding: 0;
+}
+.features li {
+  padding: 10px 0;
+}
+footer {
+  background-color: #111;
+  color: white;
+  padding: 20px;
+}
+footer a {
+  color: #fff;
+  text-decoration: underline;
+}
