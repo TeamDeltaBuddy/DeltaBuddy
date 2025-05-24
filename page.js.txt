@@ -1,0 +1,8 @@
+export default function HomePage() {
+  return (
+    <main style={{ padding: "2rem", fontFamily: "sans-serif" }}>
+      <h1>Welcome to DeltaBuddy!</h1>
+      <p>Your options trading assistant is coming soon.</p>
+    </main>
+  );
+}
